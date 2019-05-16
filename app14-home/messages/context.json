@@ -1,0 +1,22 @@
+{
+  "admin/editor.carousel.title": "admin/editor.carousel.title",
+  "admin/editor.carousel.description": "admin/editor.carousel.description",
+  "admin/editor.carousel.showDots.title": "admin/editor.carousel.showDots.title",
+  "admin/editor.carousel.showArrows.title": "admin/editor.carousel.showArrows.title",
+  "admin/editor.carousel.height.title": "admin/editor.carousel.height.title",
+  "admin/editor.carousel.mobileHeight.title": "admin/editor.carousel.mobileHeight.title",
+  "admin/editor.carousel.autoplay.title": "admin/editor.carousel.autoplay.title",
+  "admin/editor.carousel.autoplaySpeed.title": "admin/editor.carousel.autoplaySpeed.title",
+  "admin/editor.carousel.numberOfBanners.title": "admin/editor.carousel.numberOfBanners.title",
+  "admin/editor.carousel.bannerLink.title": "admin/editor.carousel.bannerLink.title",
+  "admin/editor.carousel.bannerLink.page.title": "admin/editor.carousel.bannerLink.page.title",
+  "admin/editor.carousel.bannerLink.params.title": "admin/editor.carousel.bannerLink.params.title",
+  "admin/editor.carousel.bannerLink.params.description": "admin/editor.carousel.bannerLink.params.description",
+  "admin/editor.carousel.bannerLink.url.title": "admin/editor.carousel.bannerLink.url.title",
+  "admin/editor.carousel.banners.title": "admin/editor.carousel.banners.title",
+  "admin/editor.carousel.banner.title": "admin/editor.carousel.banner.title",
+  "admin/editor.carousel.banner.description.title": "admin/editor.carousel.banner.description.title",
+  "admin/editor.carousel.banner.externalRoute.title": "admin/editor.carousel.banner.externalRoute.title",
+  "admin/editor.carousel.banner.image.title": "admin/editor.carousel.banner.image.title",
+  "admin/editor.carousel.banner.mobileImage.title": "admin/editor.carousel.banner.mobileImage.title"
+}

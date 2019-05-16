@@ -1,0 +1,37 @@
+{
+    "vendor": "webimpacto",
+    "name": "store-theme",
+    "version": "0.1.0",
+    "builders": {
+        "styles": "1.x",
+        "store": "0.x"
+    },
+    "mustUpdateAt": "2020-05-03",
+    "scripts": {
+        "postreleasy": "vtex publish --verbose"
+    },
+    "dependencies": {
+        "vtex.store": "2.x",
+        "vtex.store-header": "2.x",
+        "vtex.store-footer": "2.x",
+        "vtex.store-components": "3.x",
+        "webimpacto.carousel": "1.x",
+        "webimpacto.galeria": "1.x",
+        "webimpacto.banners": "1.x",
+        "webimpacto.app14": "1.x",
+        "webimpacto.app15": "1.x",
+        "vtex.shelf": "1.x",
+        "vtex.menu": "2.x",
+        "vtex.minicart": "2.x",
+        "vtex.product-details": "1.x",
+        "vtex.product-kit": "1.x",
+        "vtex.search-result": "3.x",
+        "vtex.login": "2.x",
+        "vtex.my-account": "1.x"
+    },
+    "title": "Store Theme",
+    "description": "VTEX IO Store Theme",
+    "registries": [
+        "smartcheckout"
+    ]
+}

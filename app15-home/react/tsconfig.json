@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": { "*": ["types/*"] },
+    "baseUrl": ".",
+    "paths": { "*": ["types/*"] },
+    "lib": ["es2017","dom"],
+    "types": ["node"],
+    "typeRoots": ["node_modules/@types"],
+    "target": "es2017",
+    "module": "es6",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "noEmitOnError": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "skipLibCheck": true,
+    "strictPropertyInitialization": true
+  },
+  "typeAcquisition": {
+    "enable": false
+  },
+  "exclude": ["node_modules"],
+  "include": ["./typings/*.d.ts", "./**/*.tsx", "App15.js"]
+}

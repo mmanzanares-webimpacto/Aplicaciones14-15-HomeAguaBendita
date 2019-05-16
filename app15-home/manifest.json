@@ -1,0 +1,23 @@
+{
+    "vendor": "webimpacto",
+    "name": "app15",
+    "version": "1.0.2",
+    "title": "App15Marta",
+    "description": "App Component",
+    "defaultLocale": "pt-BR",
+    "builders": {
+        "store": "0.x",
+        "react": "3.x",
+        "messages": "1.x"
+    },
+    "mustUpdateAt": "2019-04-02",
+    "scripts": {
+        "prereleasy": "bash lint.sh",
+        "postreleasy": "vtex publish --verbose"
+    },
+    "dependencies": {
+        "vtex.store-components": "3.x",
+        "vtex.slider": "0.x",
+        "vtex.store-icons": "0.x"
+    }
+}
